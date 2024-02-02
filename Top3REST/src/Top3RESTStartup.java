@@ -2,7 +2,7 @@
  * Created by el20jr on 21/11/22.
  * Create database: http://localhost:9999/service2/createDB
  * Get top 3 books using authorID: http://localhost:9999/service2/top3/returntop3/{authorID}
- * Google API key: AIzaSyB-UeHhpvmEABLv1_ItIzWao58ngm91FiA
+ * Google API key: 
  */
 
 import java.io.IOException;

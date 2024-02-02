@@ -1,6 +1,6 @@
 /**
  * Created by el20jr on 22/11/
- * google API key: AIzaSyB-UeHhpvmEABLv1_ItIzWao58ngm91FiA
+ * google API key: 
  */
 
 import javax.ws.rs.GET;
